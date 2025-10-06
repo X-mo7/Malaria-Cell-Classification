@@ -41,12 +41,12 @@ The model achieved an accuracy of approximatively 93%. However, performance may 
 ---
 
 ### Confusion Matrix
-![Confusion Matrix](docs:confusion_matrix.png)
+![Confusion Matrix](confusion_matrix.png)
 
 ---
 
 ### False Predictions
-![False Positives and False Negatives](docs:fp_fn_.png)
+![False Positives and False Negatives](fp:fn.png)
 
 The gallery below shows examples of **false positives** and **false negatives**.
 
