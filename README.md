@@ -48,7 +48,7 @@ The model achieved an accuracy of approximatively 93%. However, performance may 
 ### False Predictions
 ![False Positives and False Negatives](false_pos:neg.png)
 
-The gallery below shows examples of **false positives** and **false negatives**.
+The gallery above shows examples of **false positives** and **false negatives**.
 
 Most **false positives** correspond to slightly purple or out-of-focus cells that the model mistakes for infected ones.  
 Most **false negatives** contain very small or partially hidden parasites, suggesting that higher-resolution inputs or deeper feature maps could improve recall.
