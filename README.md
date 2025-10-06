@@ -47,13 +47,13 @@ Please note that performance may slightly vary (±2 %) depending on random initi
 
 ---
 
-### 🧭 Confusion Matrix
-![Confusion Matrix](docs/confusion_matrix.png)
+### Confusion Matrix
+![Confusion Matrix](docs:confusion_matrix.png)
 
 ---
 
-### 🧫 False Predictions
-![False Positives and False Negatives](docs/fp_fn_.png)
+### False Predictions
+![False Positives and False Negatives](docs:fp_fn_.png)
 
 The gallery below shows examples of **false positives** and **false negatives**.
 
@@ -82,7 +82,7 @@ This confirms that the model relies on **color and contrast cues** rather than e
 
 ---
 
-## 🎯 Project Summary
+## Project Summary
 
 This notebook was designed as an accessible project to explore the basics of **image classification using deep learning**.  
 I was able to understand step by step how a convolutional neural network can learn to detect patterns — here, malaria parasites in blood cell images.
