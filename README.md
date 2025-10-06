@@ -36,14 +36,7 @@ A lightweight CNN built from scratch in PyTorch:
 
 ## Results
 
-| Metric | Score |
-|:--|:--:|
-| **Test Accuracy** | **≈ 93 %** |
-| **Precision** | ~0.92 |
-| **Recall** | ~0.94 |
-| **F1-score** | ~0.93 |
-
-Please note that performance may slightly vary (±2 %) depending on random initialization and the train/test split.
+The model achieved an accuracy of approximatively 93%. However, performance may slightly vary (±2 %) depending on random initialization and the train/test split.
 
 ---
 
