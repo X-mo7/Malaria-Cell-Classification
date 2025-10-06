@@ -46,7 +46,7 @@ The model achieved an accuracy of approximatively 93%. However, performance may 
 ---
 
 ### False Predictions
-![False Positives and False Negatives](fp:fn.png)
+![False Positives and False Negatives](false_pos:neg.png)
 
 The gallery below shows examples of **false positives** and **false negatives**.
 
